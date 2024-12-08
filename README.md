@@ -14,4 +14,3 @@ Username dicoding: nbilasals
 | Opsi deployment | Deksripsi tentang opsi deployment |
 | Web app | Tautan web app yang digunakan untuk mengakses model serving. Contoh: [nama-model](https://model-resiko-kredit.herokuapp.com/v1/models/model-resiko-kredit/metadata)|
 | Monitoring | Deksripsi terkait hasil monitoring dari model serving |
->>>>>>> 723568bd2a3c621cec68f034b802bbed15dc861a
