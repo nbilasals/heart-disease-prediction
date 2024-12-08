@@ -5,12 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-/output
+# /output
 /test_
 
 # tfx components
-/pipelines
-/serving_model
+# /pipelines
+# /serving_model
 
 # Distribution / packaging
 .Python
@@ -25,7 +25,7 @@ lib64/
 parts/
 sdist/
 var/
-wheels/
+# wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
