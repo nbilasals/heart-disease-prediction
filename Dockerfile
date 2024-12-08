@@ -1,4 +1,4 @@
 FROM tensorflow/serving:latest
 
-COPY ./serving_model_dir /models
+COPY ./output/serving_model_dir /models
 ENV MODEL_NAME=heart-disease-prediction-model
